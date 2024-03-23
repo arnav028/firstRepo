@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    border: 2px solid black;
+    height: 990px;
+}
+.section-1{
+/*     border: 2px solid red;
+ */    width: 22%;
+    height: 4.9cm;
+}
+.section-2{
+/*     border: 2px solid red;
+ */    width: 22%;
+    height: 558px;
+    float: left;
+    margin-top: 10px;
+}
+.section-3{
+    width: 76%;
+    height: 750px;
+    display: flex;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.lib{
+    display: flex;
+    margin-top: 25px;
+}
+.Libra{
+    margin-left: 10px;
+    font-size: 19px;
+}
+#plus{
+    margin-left: 150px;
+    font-size: 30px;
+}
+#play{
+    border-radius: 8px;
+    padding: 5px;
+}

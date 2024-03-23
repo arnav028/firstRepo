@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.trending-heading img{
+    width: 30px;
+}
+.trending-heading{
+    display: flex;
+    justify-content: start;
+    margin-top: 20px;
+    margin-left: 70px;
+}
